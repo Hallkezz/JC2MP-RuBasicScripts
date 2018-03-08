@@ -1,2 +1,2 @@
-# Russian server.
+# Russian server
 Перевод оригинальной сборки модулей на русский.
