@@ -10,7 +10,7 @@ function Author:ModulesLoad()
         {
             name = "Локализация",
             text = 
-                "Автор: Hallkezz\n"
+                "Автор: Hallkezz"
         } )
 end
 
